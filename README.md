@@ -13,9 +13,9 @@ The project uses the **20 Newsgroups dataset**, which contains documents from 20
 
 | Name | Student ID | Main Contribution |
 |------|------------|-------------------|
-| Member 1 | XXXXX | Dataset, EDA, preprocessing, Word2Vec, GloVe |
-| Member 2 | XXXXX | Naive Bayes, Logistic Regression, Random Forest, SimpleRNN, GRU, LSTM |
-| Member 3 | XXXXX | Bidirectional RNN models, BERT, Ensemble, Ablation Study |
+| Member 1 |22201895| Dataset, EDA, preprocessing, Word2Vec, GloVe |
+| Member 2 |22301693| Naive Bayes, Logistic Regression, Random Forest, SimpleRNN, GRU, LSTM |
+| Member 3 |22201914| Bidirectional RNN models, BERT, Ensemble, Ablation Study |
 
 ---
 
